@@ -1,6 +1,5 @@
 body{background: url(images/body-bg.jpg) no-repeat; color: #fff;}
 
-tbody{display: grid; grid-gap: 10px;}
 .card{display: flex; justify-content: center; align-items: center; margin: 0;}
 .card-insta {margin-top: 10px !important; height: 55px;}
 .card-fixo {margin-top: 30px !important; height: 55px;}
@@ -43,3 +42,5 @@ h5{
 .blue.darken-1 {
     background-color: #22972e !important;
 }
+
+input{color: #fff;}
