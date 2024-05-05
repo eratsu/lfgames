@@ -17,6 +17,12 @@
     body{
         background: #051937 !important;
     }
+    .input-field{
+        border: 1px solid #18afe9;
+        border-radius: 10px;
+        padding: 12px 20px;
+        background: rgb(255 255 255 / 6%);
+    }
     </style>
 
     
@@ -42,12 +48,12 @@
             <form>
                 <div class="row">
                     <div class="input-field col l12 s12 m12 xl12">
-                        <b>Valor da compra</b>
+                        <b>1 - Valor da compra</b>
                         <input placeholder="R$ 0,00 (digite somente números)" id="val_compra" type="number" class="validate" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');">
                     </div>
 
                     <div class="input-field col l12 s12 m12 xl12">
-                        <b>Entrada em dinheiro</b>
+                        <b>2 - Entrada em dinheiro</b>
                         <input placeholder="R$ 0,00 (digite somente números)" id="val_entrada" type="number" class="validate" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');">
                     </div>
                 </div>
