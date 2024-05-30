@@ -2,8 +2,7 @@ body{
     /*background: url(images/body-bg.jpg) no-repeat; */
     color: #fff;
     padding: 50px 0;
-    background: rgb(2,0,36);
-    background: linear-gradient(180deg, rgb(6 49 115) 0%, rgba(0,212,255,1) 100%);
+    background: #000336;
     height: 100vh;
 }
 
