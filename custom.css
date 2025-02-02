@@ -52,6 +52,10 @@ h5{
 .card-insta {background: linear-gradient(84.92deg, #FFC900 0%, #FF6711 30.51%, #FF1855 71.88%, #D300C5 100%);}
 .card-insta h5{color: #fff !important;}
 
+.card-insta {background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);}
+.card-insta h5{color: #fff !important;}
+
+
 .blue.darken-1 {
     background-color: #22972e !important;
 }
