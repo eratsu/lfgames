@@ -54,6 +54,7 @@ h5{
 
 .card-manu {background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);}
 .card-manu h5{color: #fff !important;}
+.card-manu {margin-top: 10px !important; height: 55px;}
 
 
 .blue.darken-1 {
